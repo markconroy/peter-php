@@ -2,14 +2,14 @@
 <?php require_once "../creds.php"; ?>
 <?php $page_title = "Peter's Homepage"; ?>
 
-<?php include "head.php"; ?>
+<?php include "../includes/head.php"; ?>
 <body>
 
-  <?php include "header.php"; ?>
+  <?php include "../includes/header.php"; ?>
   <main>
     Put your Homepage stuff in here.
   </main>
-  <?php include "footer.php"; ?>
+  <?php include "../includes/footer.php"; ?>
   
 </body>
 </html>
