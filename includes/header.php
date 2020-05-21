@@ -6,7 +6,7 @@
     <div class="header__second">
       <ul>
         <li><a href="/shop">Shop</a></li>
-        <li><a href="/contact">contact</a></li>
+        <li><a href="/contact">Contact Us</a></li>
       </ul>
     </div>
   </div>
